@@ -61,7 +61,8 @@ li:hover {
     background-color: var(--green);
     color:var(--grey-900);
     cursor: pointer;
-    transition: background-color 2s ease;
+    transition: background-color 200ms ease;
+    transition: color 200ms ease;
 }
 
 .profile-image {
