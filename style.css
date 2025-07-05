@@ -51,9 +51,10 @@ header {
     margin-bottom: 20px;
 }
 
-a {
+li a {
     color: inherit;
     text-decoration: none;
+    font-weight: 700;
 }
 
 li:hover {
